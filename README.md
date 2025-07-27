@@ -28,6 +28,24 @@ npm run dev
 npm run build
 ```
 
+## Sample credentials
+### Parent
+```
+{
+      "email": "john.doe@example.com",
+      "password": "securepassword123"
+  }
+```
+
+###teacher
+
+```
+{
+    "email": "seetha.ram@example.com",
+    "password": "password123"
+}
+
+```
 ## Features
 
 - Modern React with TypeScript
